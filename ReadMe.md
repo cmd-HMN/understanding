@@ -1,9 +1,6 @@
 # Understanding 📚  
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)  
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/)  
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)  
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](#-contributing)  
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)  [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/) [![cmd-HMN](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](https://github.com/cmd-HMN)  
 
 🚀 **"Understanding"** is a repository dedicated to **building Machine Learning algorithms from scratch**—no shortcuts, just pure Python! Instead of relying on libraries like scikit-learn, we'll implement everything **step-by-step** to gain deep insights into how ML models work.  
 
