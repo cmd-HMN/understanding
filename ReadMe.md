@@ -5,7 +5,7 @@
 🚀 **"Understanding"** is a repository dedicated to **building Machine Learning algorithms from scratch**—no shortcuts, just pure Python! Instead of relying on libraries like scikit-learn, we'll implement everything **step-by-step** to gain deep insights into how ML models work.  
 
 ## 📂 Repository Structure  
-- 🏗️ [`linear-regression.ipynb`](https://github.com/cmd-HMN/understanding/blob/main/linear-regression.ipynb) → Implementation of Linear Regression **from scratch - (main purpose is to Understand what actually happens)**
+- 🏗️ [`Linear Regression`](https://github.com/cmd-HMN/understanding/blob/main/Linear_Regression) → Implementation of Linear Regression **from scratch - (main purpose is to Understand what actually happens)**
 
 
 🔮 **Coming Soon:**  
